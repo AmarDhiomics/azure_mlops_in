@@ -5,7 +5,7 @@ name: mlops-cicd-workflow
 on:
   push:
     branches:
-      - master
+      - main
     # paths:
     #   - 'code/*'
     
